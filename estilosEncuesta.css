@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url("img/imagen.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 1;
+  z-index: 1;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  align-items: center;
+}
+form {
+  margin: 50px auto;
+  background-color: #435568;
+  width: 700px;
+  padding: 2.5rem;
+  border-radius: 16px;
+}
+.form-label{color: white;}
+h1,p{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
